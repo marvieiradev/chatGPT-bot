@@ -34,8 +34,8 @@ function sendMessage() {
         method: 'POST',
         headers: {
             'content-type': 'application/json',
-            'X-RapidAPI-Key': '614e5217c9msh6e1102ec18419f6p172d27jsnf7103c5bc929',
-            'X-RapidAPI-Host': 'openai37.p.rapidapi.com'
+            'X-RapidAPI-Key': '0',
+            'X-RapidAPI-Host': '0'
         },
         body: `{
 		messages: [
